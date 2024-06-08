@@ -28,6 +28,10 @@ Seeking an opportunity to kick-start my career in front-end development and grow
 |---|
 
 
+## Contact 📬
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jclosadab) or by email at juancamilo@hotmail.com
+
+
 <!---
 jclosadab1996/jclosadab1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
