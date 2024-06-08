@@ -7,7 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5400&color=5CB635&lines=Frontend+developer+building+ideas;Open+source)](https://git.io/typing-svg)
 
 <!-- DESCRIPTION -->
-Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as React, TypeScript,  and Tailwind CSS. My goal is grow as a professional, reach a high seniority level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
+# Hi, I'm <a href="https://www.linkedin.com/in/jclosadab">Juan<a/>! 👋 </br> <b>Frontend Developer 🧑🏻‍💻</b>
+
+
+Motivated and eager junior front-end developer with a strong foundation in HTML, CSS, JavaScript, and front-end frameworks like React. Recent graduate with a certificate in frontend developer and multiple front-end focused projects in my portfolio. Excellent problem-solving abilities and passion for creating intuitive, responsive user interfaces. Quick learner committed to writing clean, efficient code and staying up-to-date with the latest front-end technologies and best practices.
+Seeking an opportunity to kick-start my career in front-end development and grow my skills in a collaborative team environment.
 
 🚀 I am part of the best community ever: 💚**Platzi**.
 
