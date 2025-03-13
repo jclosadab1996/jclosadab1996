@@ -11,8 +11,9 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/jclosadab">Juan<a/>! 👋 </br> <b>Full Stack Junior Developer 🧑🏻‍💻</b>
 
 
-Motivated and eager junior front-end developer with a strong foundation in HTML, CSS, JavaScript, and front-end frameworks like React. Recent graduate with a certificate in frontend developer and multiple front-end focused projects in my portfolio. Excellent problem-solving abilities and passion for creating intuitive, responsive user interfaces. Quick learner committed to writing clean, efficient code and staying up-to-date with the latest front-end technologies and best practices.
-Seeking an opportunity to kick-start my career in front-end development and grow my skills in a collaborative team environment.
+Junior Full Stack Web Developer with 6 months of experience as a freelancer and participant of national Hackathons. Strong proficiency in technologies such as JavaScript, Typescript, NodeJS, Express and frameworks such as React, Angular & Vue.
+Experience in relational and non-relational databases. creating interactive and engaging interfaces, integrating RESTful APIS and implementing clean code using SOLID principles. Passionate about continuous learning and adopting new technologies
+to develop innovative and functional solutions.
 
 🚀 I am part of the best community ever: 💚**Platzi**.
 
