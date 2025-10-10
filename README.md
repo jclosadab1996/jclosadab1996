@@ -14,7 +14,7 @@
 Junior Full Stack Web Developer with 6 months of experience as a freelancer and participant of national Hackathons.
 Strong proficiency in technologies such as JavaScript, Typescript, NodeJS, Express and frameworks such as React, Angular, Vue & Astro.
 Experience in relational and non-relational databases. Creating interactive and engaging interfaces, integrating RESTful APIS and implementing clean code using SOLID principles. Passionate about continuous learning and adopting new technologies
-to develop innovative and functional solutions.
+to develop innovative and functional solutions....
 
 🚀 I'm part of the best community ever: <a href="https://platzi.com/p/jclosdab1996/">💚**Platzi**</a>
 
